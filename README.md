@@ -11,7 +11,7 @@ This project aims to explore advanced methodologies in machine learning, focusin
 
 File description :
 - **datasetPreparation.py** contains data cleaning & preparation (Done by Shaoying Li)
-- **Assignment 2 - traditional CF** contain codes for traditional methods - Collaborative Filtering & Content-Based filtering (Done by Agnes Lee)
+- **Assignment 2 - traditional CF** contain codes for traditional methods - CF & CBF (Done by Agnes Lee)
 -
 -
 -
