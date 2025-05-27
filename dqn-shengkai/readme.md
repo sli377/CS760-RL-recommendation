@@ -3,6 +3,8 @@
 ```bash
 kaggle datasets download yelp-dataset/yelp-dataset
 ```
+Extract the files to current directory
+
 
 ```bash
 python preprocess1.py
